@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 40px;
+}
+.arya {
+    background: white;
+    width: 350px;
+    padding: 20px;
+    border-radius: 12px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+input, button {
+    width: 80% ;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 8px;
+    border: 1px solid #999;
+}
+button {
+        background: #4CAF50;
+        color: white;
+        cursor: pointer;
+        width: 97%;
+}
+input {
+    width: 90%;
+}
+li {
+    margin: 10px 0;
+    background: #eaeaea;
+    padding: 10px;
+    border-radius: 6px;
+}
